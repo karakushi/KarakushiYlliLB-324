@@ -15,6 +15,8 @@ Jedoch muss deine Repository up to date sein, also:
 Wenn nun etwas im Code bearbeitet wird, kann man entweder Push (wird auf Server geladen) oder Commit (wird lokal aktualisiert) machen, ohne dass man noch testen muss. Es passiert nun alles automatisch⚙️.
 
 ## Aufgabe 4, Wie übertrage ich das Passwort aus der .env Datei auf Azure?
+Link zur Website: karakushiyllilb-324.azurewebsites.net
+
 #### Schritt 1
 Ich gehe auf die Seite portal.azure und melde mich mit meiner BBB-EMail an. Danach muss ich ein Deployment machen.
 
